@@ -18,13 +18,22 @@
 - 部署教程：https://www.qqss.net/manual/qs/81
 - 演示地址：https://www.qqss.net/manual/qs/87
 
-## 在线交流
 
-- 公共QQ交流群：318657322
+## 📢码支付/易支付地址
+码支付：https://pay.mymzf.com/
 
-- 扫码加入QQ群
-  
-  <img src="https://www.qqss.net/web/assets/qrcode_1736538593958-410e7a40.jpg" width="40%" />
+小微易支付：https://pay.lanfucai.com/
+
+小微云计算：https://www.xwicloud.com
+
+小微云挂机宝（海外服务器）：https://idc.xwicloud.com/
+
+QQ交流群：271206663
+
+
+电报：[t.me/hao1234botpay](https://t.me/hao1234botpay)
+
+
 
 - 微信赞赏
 
